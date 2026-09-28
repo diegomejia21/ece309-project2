@@ -1,0 +1,7 @@
+build/
+*.exe
+*.o
+transcript.txt
+test_*.script
+test_*_transcript.txt
+github.zip
